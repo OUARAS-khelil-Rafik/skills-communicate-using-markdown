@@ -7,3 +7,5 @@
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
